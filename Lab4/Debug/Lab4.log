@@ -1,0 +1,5 @@
+﻿  Complex.cpp
+  Source.cpp
+  Создание кода...
+C:\Users\Александр\source\repos\Lab4Final\Lab4\Lab4\Complex.cpp(101): warning C4715: Arg: значение возвращается не при всех путях выполнения
+  Lab4.vcxproj -> C:\Users\Александр\source\repos\Lab4Final\Lab4\Debug\Lab4.exe
